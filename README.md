@@ -21,7 +21,7 @@ issue) so it plays inline; for the full video, host it externally (e.g. YouTube)
 ## What's in here
 
 ```
-GT_archive/
+archive/
 ├─ Game/
 │  ├─ NightOwls_GravityInvasion_Gameplay-001.mp4   # gameplay capture (git-ignored, ~2.7 GB)
 │  └─ GravityShifter_v2/                            # the Unity project
