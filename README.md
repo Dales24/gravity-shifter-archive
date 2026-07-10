@@ -9,21 +9,14 @@ Unity experiment where the player can rotate world gravity 90° at a time and wa
 
 ## 🎥 Gameplay video
 
-<!-- ▶️ To embed the video so it PLAYS inline here:
-     1. Open any issue/PR/comment on this repo at github.com (you don't have to submit it).
-     2. Drag `Game/GravityShifter_Gameplay_clip.mp4` into the text box.
-     3. GitHub uploads it and inserts a URL like
-        https://github.com/USER/REPO/assets/XXXX/xxxxxxxx-....mp4
-     4. Paste that URL on its own line below (no markdown needed — a bare GitHub
-        asset URL auto-renders as a player). Then delete this comment. -->
+A short (40-second) clip of the gravity-shift mechanic in action:
 
-_Paste the GitHub asset URL of `GravityShifter_Gameplay_clip.mp4` here to show the player._
+https://github.com/user-attachments/assets/396f8917-3b6b-49ae-9c73-91bade1f12c0
 
 The **full-quality** 9.6-minute capture (`Game/NightOwls_GravityInvasion_Gameplay-001.mp4`, ~2.7 GB) is
 **not stored in git** — it exceeds GitHub's 100 MB per-file limit and is listed in
-[`.gitignore`](.gitignore). The compressed 720p clip above (`GravityShifter_Gameplay_clip.mp4`, ~85 MB)
-is what fits inside GitHub's inline-video limit; it is also git-ignored and is meant to be uploaded
-through the drag-and-drop step above rather than committed to the repo.
+[`.gitignore`](.gitignore). The short clip above is hosted on GitHub's attachment CDN (uploaded via an
+issue) so it plays inline; for the full video, host it externally (e.g. YouTube) and link it here.
 
 ## What's in here
 
