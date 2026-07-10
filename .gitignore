@@ -1,0 +1,47 @@
+# ---- Large media (too big for GitHub's 100 MB file limit) ----
+# The gameplay capture is ~2.7 GB — keep it out of the repo and host it
+# externally (see README). Add other heavy media here as needed.
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# ---- macOS ----
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# ---- Unity generated folders (regenerated on project open) ----
+Game/GravityShifter_v2/[Ll]ibrary/
+Game/GravityShifter_v2/[Tt]emp/
+Game/GravityShifter_v2/[Oo]bj/
+Game/GravityShifter_v2/[Bb]uild/
+Game/GravityShifter_v2/[Bb]uilds/
+Game/GravityShifter_v2/[Ll]ogs/
+Game/GravityShifter_v2/[Uu]ser[Ss]ettings/
+Game/GravityShifter_v2/[Mm]emoryCaptures/
+
+# Asset meta files for ignored folders should not be committed
+Game/GravityShifter_v2/[Ll]ibrary.meta
+Game/GravityShifter_v2/[Tt]emp.meta
+Game/GravityShifter_v2/[Bb]uild.meta
+
+# ---- Unity / IDE crash & tool artifacts ----
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.booproj
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
